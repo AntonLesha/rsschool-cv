@@ -1,0 +1,1 @@
+echo odna pisya
